@@ -1,0 +1,28 @@
+ This is compelet website for the Bhabani Timbers shop
+ and this is the documentation part of website. 
+ Main  source of this website is Bootstrap and reference have taken
+ from many youtube video, and online demo sites where it basically 
+ free for all and maybe some issues, will face in near future but 
+ i will try to make it error free.
+ this is my first project for a shop, its a static website for them.
+
+
+
+
+    <!-- this is the script part of google font  -->
+    <!-- <style> @import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&family=Montserrat:ital,wght@0,400;0,600;0,800;1,100;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@1,700&family=Unbounded:wght@700&display=swap'); </style> -->
+
+
+
+----------font-family  for text formating------
+
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Unbounded', cursive;
+
+
+
+
+this is link for the product silder for product : https://codepen.io/marufalbashir/pen/LyaQdq (in codepen) .....
+ 
